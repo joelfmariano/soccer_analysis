@@ -5,5 +5,5 @@ primer nivel en el Reino Unido, Italia y España. Estas son la Premier League, l
 Liga, respectivamente. Examinaremos las tendencias de puntuación de los últimos cinco
 años y las compararemos entre las tres ligas.
 
-Creditos: Kaggle: Puntuaciones de los partidos de las ultimas 5 temporadas de las 5 grandes ligas de
+### Creditos: Kaggle: Puntuaciones de los partidos de las ultimas 5 temporadas de las 5 grandes ligas de
 Europa
